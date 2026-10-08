@@ -1,0 +1,6 @@
+{
+  "name": "다움생식 가이드 - 가장 효과적인 섭취방법 & 맞춤 플래너",
+  "description": "다움생식의 가장 효과적인 섭취방법, 목적별 맞춤 플랜, 두유/물 혼합 황금 비율, 레시피 및 AI 생식 상담 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
